@@ -1,0 +1,15 @@
+E:\cDersleri\school.Entities\bin\Debug\net8.0\school.Entities.deps.json
+E:\cDersleri\school.Entities\bin\Debug\net8.0\school.Entities.dll
+E:\cDersleri\school.Entities\bin\Debug\net8.0\school.Entities.pdb
+E:\cDersleri\school.Entities\bin\Debug\net8.0\Core.dll
+E:\cDersleri\school.Entities\bin\Debug\net8.0\Core.pdb
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.Entities.csproj.AssemblyReference.cache
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.Entities.AssemblyInfoInputs.cache
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.Entities.AssemblyInfo.cs
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.Entities.csproj.CoreCompileInputs.cache
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.E.A358EBF7.Up2Date
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.Entities.dll
+E:\cDersleri\school.Entities\obj\Debug\net8.0\refint\school.Entities.dll
+E:\cDersleri\school.Entities\obj\Debug\net8.0\school.Entities.pdb
+E:\cDersleri\school.Entities\obj\Debug\net8.0\ref\school.Entities.dll
